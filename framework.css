@@ -1,0 +1,17 @@
+body{
+    min-height: 2000px;
+}
+
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: rgb(248, 219, 215);
+}
+
+#BestPlayers{
+    background-color: rgb(248, 219, 215);
+}
+
+section{
+    padding-top: 5rem;
+}
